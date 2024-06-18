@@ -1,0 +1,18 @@
+.footer{
+
+    background-color: rgb(176, 185, 193);
+    position: fixed;
+
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height:  3rem;
+    text-align: center;
+
+    font-size: larger;
+    color: rgb(0, 0, 0);
+}
+
+a{
+    color: rgb(0, 0, 0);
+}

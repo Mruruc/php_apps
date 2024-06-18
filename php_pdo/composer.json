@@ -1,0 +1,18 @@
+{
+    "name": "php_pdo/mruruc",
+    "description": "understanding the php PDO to intreact with database.",
+    "autoload": {
+        "psr-4": {
+            "PhpPdo\\Mruruc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mruruc",
+            "email": "mr.uruc21@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

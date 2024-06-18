@@ -1,0 +1,13 @@
+{
+    "name": "mruruc/php_routing",
+    "description": "Understanding PHP routing.",
+    "type": "project",
+
+    "authors": [
+        {
+            "name": "Mruruc",
+            "email": "mr.uruc21@gmail.com"
+        }
+    ],
+    "require": {}
+}

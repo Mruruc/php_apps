@@ -1,0 +1,18 @@
+{
+    "name": "mvc_project/mruruc",
+    "description": "MVC final Project",
+    "autoload": {
+        "psr-4": {
+            "MvcProject\\Mruruc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mruruc",
+            "email": "mr.uruc21@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
